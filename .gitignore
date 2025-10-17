@@ -1,0 +1,13 @@
+# данные и артефакты
+data/
+*.zip
+*.csv
+*.parquet
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+# модели/кеши
+models/
+runs/
+.cache/

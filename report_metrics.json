@@ -1,0 +1,25 @@
+{
+  "dataset_path": "/home/ivan/airbnb-la-2025/data/apartments_for_rent_classified_10K/apartments_for_rent_classified_10K.csv",
+  "target_column": null,
+  "N (rows)": 10000,
+  "total_columns": 22,
+  "d (features)": 22,
+  "K (classes)": null,
+  "missing_pct_overall": 5.115,
+  "class_imbalance": null,
+  "outlier_rows_pct_iqr": 12.35,
+  "num_numeric_features": 8,
+  "num_categorical_features": 9,
+  "num_text_features": 5,
+  "num_boolean_features": 0,
+  "num_datetime_features": 0,
+  "num_other_features": 0,
+  "other_feature_names": [],
+  "flags": {
+    "has_missing": true,
+    "heterogeneous_features": true,
+    "imbalanced_classes": false,
+    "many_outliers": true,
+    "has_text_features": true
+  }
+}
